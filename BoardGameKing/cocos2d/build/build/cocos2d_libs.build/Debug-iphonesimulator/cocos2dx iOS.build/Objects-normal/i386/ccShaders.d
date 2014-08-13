@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShaders.cpp \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/renderer/ccShaders.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/platform/ios/CCGL.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/base/CCPlatformConfig.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_Position_uColor.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_Position_uColor.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionColor.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionColor.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTexture.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTexture.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTextureA8Color.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTextureA8Color.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTextureColor.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTextureColor.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTextureColor_noMVP.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTextureColor_noMVP.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTextureColorAlphaTest.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTexture_uColor.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionTexture_uColor.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionColorLengthTexture.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_PositionColorLengthTexture.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_Label.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_Label_df.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_Label_df_glow.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_Label_normal.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_Label_outline.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_3D_PositionTex.vert \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_3D_Color.frag \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShader_3D_ColorTex.frag

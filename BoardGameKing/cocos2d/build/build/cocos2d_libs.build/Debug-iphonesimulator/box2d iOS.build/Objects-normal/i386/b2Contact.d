@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/external/Box2D/Dynamics/Contacts/b2Contact.cpp \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2Contact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Common/b2Math.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Common/b2Settings.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/b2Fixture.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2CircleContact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2PolygonContact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/Contacts/b2ContactSolver.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/b2TimeStep.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Collision/b2TimeOfImpact.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Collision/b2Distance.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/Box2D/Dynamics/b2WorldCallbacks.h

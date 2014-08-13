@@ -1,0 +1,370 @@
+TCocosDenshion iOS
+v6
+r1
+cCheck dependencies
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/libCocosDenshion\ iOS.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005365A8F700000000000003B4
+t1399171319
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005365A900000000000000019E
+t1399171328
+s414
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/libCocosDenshion iOS.a
+t2
+s0
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDAudioManager.o
+t1407928293
+s91596
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDOpenALSupport.o
+t1407928293
+s14484
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion iOS.LinkFileList
+c0000000053EB47E400000000000003C6
+t1407928292
+s966
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion.o
+t1407928293
+s124936
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine.o
+t1407928296
+s72404
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o
+t1407928293
+s36464
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m
+c0000000053BF48A8000000000000787A
+t1405044904
+s30842
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+c0000000053BF48A80000000000002AA4
+t1405044904
+s10916
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m
+c0000000053BF48A8000000000000CE44
+t1405044904
+s52804
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+c0000000053BF7DD60000000000001DF3
+t1405058518
+s7667
+
+N/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+c0000000053BF48A80000000000001663
+t1405044904
+s5731
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1afd50647f9bb941^8d4355647f9bb941^---0#1#1#--18"Check dependencies36"C95C22BE-9BA2-4A55-B6D1-200E4A53FAFC-
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429621092.333029
+e429621093.865813
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDAudioManager.o
+x/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m311"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerecf655647f9bb941^51dcdd657f9bb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m0000000000000000^4328"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/Users/lailanfeng/.pyvirtualenvs/genju/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=137 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/.. -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/editor-support -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/platform/ios -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/include -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios -MMD -MT dependencies -MF /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.d --serialize-diagnostics /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.dia -c /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.m -o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o36"6C1D859A-F5AB-4C9D-90C7-502417C315AE-
+b53E86027-9A37-4180-845F-509DBCFE34BA
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429621093.297633
+e429621093.660590
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDOpenALSupport.o
+x/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDConfig.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m313"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdd5c4c657f9bb941^6b2ca9657f9bb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m0000000000000000^4334"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/Users/lailanfeng/.pyvirtualenvs/genju/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=137 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/.. -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/editor-support -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/platform/ios -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/include -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios -MMD -MT dependencies -MF /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.d --serialize-diagnostics /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.dia -c /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.m -o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o36"07585B41-F6E9-4BF2-9691-0AB61D93D136-
+b53E86027-9A37-4180-845F-509DBCFE34BA
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429621092.333338
+e429621093.295948
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion.o
+x/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m309"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7dc55647f9bb941^5dc44b657f9bb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m0000000000000000^4322"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/Users/lailanfeng/.pyvirtualenvs/genju/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=137 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/.. -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/editor-support -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/platform/ios -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/include -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios -MMD -MT dependencies -MF /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.d --serialize-diagnostics /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.dia -c /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.m -o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o36"18101BA4-F3C9-459D-A600-95139DB15837-
+b53E86027-9A37-4180-845F-509DBCFE34BA
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s429621092.334163
+e429621096.300561
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine.o
+x/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/include/SimpleAudioEngine.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/include/Export.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/cocos2d.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/ccConfig.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCRef.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/ios/CCPlatformDefine.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCRefPtr.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/ccMacros.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCConsole.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/ios/CCStdC.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCVector.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCMap.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCNS.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/CCGeometry.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/CCMath.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Vec2.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/CCMathBase.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Vec2.inl
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Vec3.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Vec3.inl
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Mat4.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Vec4.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Vec4.inl
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Mat4.inl
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Quaternion.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/Quaternion.inl
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCData.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCValue.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/ccTypes.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/ios/CCGL.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCConfiguration.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCDirector.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCNode.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventDispatcher.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventListener.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEvent.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCScriptSupport.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/CCCommon.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCTouch.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventTouch.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventKeyboard.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCProtocols.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCTexture2D.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/CCAffineTransform.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccGLStateCache.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCQuadCommand.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCRenderCommand.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCGLProgramState.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCRenderCommandPool.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCScheduler.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/uthash.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/base64.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/ZipUtils.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCProfiling.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/ccUTF8.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCUserDefault.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCIMEDelegate.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCIMEDispatcher.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/ccUtils.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventType.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventListenerTouch.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventListenerKeyboard.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventListenerMouse.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventMouse.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventAcceleration.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventListenerAcceleration.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventCustom.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventListenerCustom.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventFocus.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCEventListenerFocus.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/MathUtil.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/MathUtil.inl
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/math/CCVertex.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCAction.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCAnimation.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionManager.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionEase.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionTween.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCCustomCommand.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCLabel.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCTextureAtlas.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCBatchCommand.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCGLProgram.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCFont.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCLayer.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCScene.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTransition.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCMenu.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCGroupCommand.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCSprite.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/CCImage.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCString.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCArray.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/ccCArray.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCGrabber.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCGrid.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCRenderer.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCGLProgramCache.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/ccShaders.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCTextureCache.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/CCDevice.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/CCFileUtils.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/CCSAXParser.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/CCThread.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/ios/CCApplication.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/CCApplicationProtocol.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/ios/CCGLView.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/platform/CCGLViewProtocol.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCFastTMXTiledMap.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCFastTMXLayer.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCComponent.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCSprite3D.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/renderer/CCMeshCommand.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCMesh.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCBundle3DData.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCMeshSkin.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCAnimate3D.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCAnimation3D.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCAnimationCurve.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCAnimationCurve.inl
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/3d/CCSprite3DMaterial.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCSet.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCBool.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/deprecated/CCDeprecated.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm320"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler13b855647f9bb941^73f44c687f9bb941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm0000000000000000^4424"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/Users/lailanfeng/.pyvirtualenvs/genju/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=137 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/.. -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/editor-support -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/platform/ios -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/include -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios -MMD -MT dependencies -MF /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.d --serialize-diagnostics /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.dia -c /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm -o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o36"98E02986-94A9-4F55-9073-FB657A30B4A0-
+b53E86027-9A37-4180-845F-509DBCFE34BA
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429621092.336634
+e429621093.727269
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o
+x/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m327"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler537656647f9bb941^5e2eba657f9bb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m0000000000000000^4376"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o [1m/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/Users/lailanfeng/.pyvirtualenvs/genju/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=137 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/.. -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/editor-support -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../external -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/../cocos/platform/ios -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/include -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios -MMD -MT dependencies -MF /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.d --serialize-diagnostics /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.dia -c /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m -o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o36"52C73C73-6A7E-4458-A807-BDF92DEC45F6-
+b53E86027-9A37-4180-845F-509DBCFE34BA
+
+CLibtool /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/libCocosDenshion\ iOS.a normal i386
+s429621096.302524
+e429621096.328289
+r1
+xLibtool
+x/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/libCocosDenshion iOS.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"[1mLibtool[0m /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/libCocosDenshion\ iOS.a normal i386134"[1mLibtool[0m /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/libCocosDenshion\ iOS.a normal i3867d944d687f9bb941^350b54687f9bb941^---0#0#1#--1381"[1mLibtool[0m /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/libCocosDenshion\ iOS.a normal i386    cd /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build    export IPHONEOS_DEPLOYMENT_TARGET=5.1.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/Users/lailanfeng/.pyvirtualenvs/genju/bin:/Users/lailanfeng/Work/application/cocos/tools/cocos2d-console/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios -filelist /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion\ iOS.LinkFileList -o /Users/lailanfeng/Work/experiment/boardgameking-client/BoardGameKing/bin/debug/ios/libCocosDenshion\ iOS.a36"461755E5-801E-466E-8A40-993C5D681240-
+b53E86027-9A37-4180-845F-509DBCFE34BA
+

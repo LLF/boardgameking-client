@@ -1,5 +1,7 @@
 #include "AppDelegate.h"
-#include "HelloWorldScene.h"
+#include "HomeScene.h"
+#include "AppMacros.h"
+#include "Constants.h"
 
 USING_NS_CC;
 
@@ -19,6 +21,12 @@ bool AppDelegate::applicationDidFinishLaunching() {
         glview = GLView::create("My Game");
         director->setOpenGLView(glview);
     }
+    
+    director->setContentScaleFactor(1);
+    CCLOG("designResolutionSize.width %f", designResolutionSize.width);
+    CCLOG("designResolutionSize.width %f", glview->getFrameSize().width);
+
+    glview->setDesignResolutionSize(designResolutionSize.width, designResolutionSize.height, ResolutionPolicy::EXACT_FIT);
 
     // turn on display FPS
     director->setDisplayStats(true);
@@ -26,8 +34,17 @@ bool AppDelegate::applicationDidFinishLaunching() {
     // set FPS. the default value is 1.0/60 if you don't call this
     director->setAnimationInterval(1.0 / 60);
 
+    
+    //soundToggle
+//    if(!UserDefault::getInstance()->getBoolForKey(SOUND_MANAGER)){
+//        UserDefault::getInstance()->setBoolForKey(SOUND_MANAGER, true);
+//        UserDefault::getInstance()->flush();
+//        GumiChinaAudioEngine::sharedEngine()->setIsEffectOn(true);
+//        GumiChinaAudioEngine::sharedEngine()->setIsBGMOn(true);
+//    }
+    
     // create a scene. it's an autorelease object
-    auto scene = HelloWorld::createScene();
+    auto scene = HomeScene::createScene();
 
     // run
     director->runWithScene(scene);

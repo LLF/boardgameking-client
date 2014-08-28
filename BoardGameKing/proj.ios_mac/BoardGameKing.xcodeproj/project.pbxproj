@@ -7,7 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18C7B2CD19A4526B00A5C4A9 /* HomeScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18C7B2CB19A4526B00A5C4A9 /* HomeScene.cpp */; };
+		18EB68EC19AB4ABB0075DD2D /* HelloWorld2.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB68EB19AB4ABB0075DD2D /* HelloWorld2.png */; };
+		18EB68EF19AC3A760075DD2D /* Constants.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB68ED19AC3A760075DD2D /* Constants.cpp */; };
+		18EB690E19AEDA140075DD2D /* UndercoverStartScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB690919AEDA140075DD2D /* UndercoverStartScene.cpp */; };
+		18EB690F19AEDA140075DD2D /* HomeScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB690C19AEDA140075DD2D /* HomeScene.cpp */; };
+		18EB691219AEDADC0075DD2D /* UndercoverHostScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB691019AEDADC0075DD2D /* UndercoverHostScene.cpp */; };
+		18EB691519AEDAF20075DD2D /* UndercoverJoinScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB691319AEDAF20075DD2D /* UndercoverJoinScene.cpp */; };
 		1AC6FB1F180E996B004C840B /* libbox2d Mac.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AC6FAFF180E9839004C840B /* libbox2d Mac.a */; };
 		1AC6FB20180E996B004C840B /* libchipmunk Mac.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AC6FAFD180E9839004C840B /* libchipmunk Mac.a */; };
 		1AC6FB21180E996B004C840B /* libcocos2dx Mac.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AC6FAF9180E9839004C840B /* libcocos2dx Mac.a */; };
@@ -216,8 +221,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		18C7B2CB19A4526B00A5C4A9 /* HomeScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = HomeScene.cpp; path = ../Classes/Controller/HomeScene/HomeScene.cpp; sourceTree = "<group>"; };
-		18C7B2CC19A4526B00A5C4A9 /* HomeScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HomeScene.h; path = ../Classes/Controller/HomeScene/HomeScene.h; sourceTree = "<group>"; };
+		1853E34819A745E700DD6016 /* AppMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppMacros.h; path = ../Classes/AppMacros.h; sourceTree = "<group>"; };
+		18EB68EB19AB4ABB0075DD2D /* HelloWorld2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HelloWorld2.png; sourceTree = "<group>"; };
+		18EB68ED19AC3A760075DD2D /* Constants.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Constants.cpp; path = ../Classes/Utilities/Constants.cpp; sourceTree = "<group>"; };
+		18EB68EE19AC3A760075DD2D /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Constants.h; path = ../Classes/Utilities/Constants.h; sourceTree = "<group>"; };
+		18EB68FF19ADC7530075DD2D /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/GameKit.framework; sourceTree = DEVELOPER_DIR; };
+		18EB690919AEDA140075DD2D /* UndercoverStartScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UndercoverStartScene.cpp; sourceTree = "<group>"; };
+		18EB690A19AEDA140075DD2D /* UndercoverStartScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UndercoverStartScene.h; sourceTree = "<group>"; };
+		18EB690C19AEDA140075DD2D /* HomeScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HomeScene.cpp; sourceTree = "<group>"; };
+		18EB690D19AEDA140075DD2D /* HomeScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeScene.h; sourceTree = "<group>"; };
+		18EB691019AEDADC0075DD2D /* UndercoverHostScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UndercoverHostScene.cpp; sourceTree = "<group>"; };
+		18EB691119AEDADC0075DD2D /* UndercoverHostScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UndercoverHostScene.h; sourceTree = "<group>"; };
+		18EB691319AEDAF20075DD2D /* UndercoverJoinScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UndercoverJoinScene.cpp; sourceTree = "<group>"; };
+		18EB691419AEDAF20075DD2D /* UndercoverJoinScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UndercoverJoinScene.h; sourceTree = "<group>"; };
 		1AC6FAE5180E9839004C840B /* cocos2d_libs.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = cocos2d_libs.xcodeproj; path = ../cocos2d/build/cocos2d_libs.xcodeproj; sourceTree = "<group>"; };
 		1ACB3243164770DE00914215 /* libcurl.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libcurl.a; path = ../../cocos2dx/platform/third_party/ios/libraries/libcurl.a; sourceTree = "<group>"; };
 		1AFAF8B316D35DE700DB1158 /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = ../Classes/AppDelegate.cpp; sourceTree = "<group>"; };
@@ -341,23 +357,16 @@
 			children = (
 				1AFAF8B316D35DE700DB1158 /* AppDelegate.cpp */,
 				1AFAF8B416D35DE700DB1158 /* AppDelegate.h */,
-				18C7B2C719A3596F00A5C4A9 /* Controller */,
+				1853E34819A745E700DD6016 /* AppMacros.h */,
 				1AFAF8B516D35DE700DB1158 /* HelloWorldScene.cpp */,
 				1AFAF8B616D35DE700DB1158 /* HelloWorldScene.h */,
 				18C7B2CA19A35A8900A5C4A9 /* Language */,
 				18C7B2C819A3599100A5C4A9 /* Model */,
 				18C7B2C919A359CC00A5C4A9 /* Utilities */,
+				18EB690619AEDA140075DD2D /* ViewController */,
 			);
 			name = Classes;
 			path = ../classes;
-			sourceTree = "<group>";
-		};
-		18C7B2C719A3596F00A5C4A9 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				18C7B2CE19A4527900A5C4A9 /* HomeScene */,
-			);
-			name = Controller;
 			sourceTree = "<group>";
 		};
 		18C7B2C819A3599100A5C4A9 /* Model */ = {
@@ -370,6 +379,8 @@
 		18C7B2C919A359CC00A5C4A9 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				18EB68ED19AC3A760075DD2D /* Constants.cpp */,
+				18EB68EE19AC3A760075DD2D /* Constants.h */,
 			);
 			name = Utilities;
 			sourceTree = "<group>";
@@ -381,13 +392,44 @@
 			name = Language;
 			sourceTree = "<group>";
 		};
-		18C7B2CE19A4527900A5C4A9 /* HomeScene */ = {
+		18EB690619AEDA140075DD2D /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				18C7B2CB19A4526B00A5C4A9 /* HomeScene.cpp */,
-				18C7B2CC19A4526B00A5C4A9 /* HomeScene.h */,
+				18EB690719AEDA140075DD2D /* Games */,
+				18EB690B19AEDA140075DD2D /* Home */,
 			);
-			name = HomeScene;
+			name = ViewController;
+			path = ../Classes/ViewController;
+			sourceTree = "<group>";
+		};
+		18EB690719AEDA140075DD2D /* Games */ = {
+			isa = PBXGroup;
+			children = (
+				18EB690819AEDA140075DD2D /* Undercover */,
+			);
+			path = Games;
+			sourceTree = "<group>";
+		};
+		18EB690819AEDA140075DD2D /* Undercover */ = {
+			isa = PBXGroup;
+			children = (
+				18EB691019AEDADC0075DD2D /* UndercoverHostScene.cpp */,
+				18EB691119AEDADC0075DD2D /* UndercoverHostScene.h */,
+				18EB691319AEDAF20075DD2D /* UndercoverJoinScene.cpp */,
+				18EB691419AEDAF20075DD2D /* UndercoverJoinScene.h */,
+				18EB690919AEDA140075DD2D /* UndercoverStartScene.cpp */,
+				18EB690A19AEDA140075DD2D /* UndercoverStartScene.h */,
+			);
+			path = Undercover;
+			sourceTree = "<group>";
+		};
+		18EB690B19AEDA140075DD2D /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				18EB690C19AEDA140075DD2D /* HomeScene.cpp */,
+				18EB690D19AEDA140075DD2D /* HomeScene.h */,
+			);
+			path = Home;
 			sourceTree = "<group>";
 		};
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
@@ -433,6 +475,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				18EB68FF19ADC7530075DD2D /* GameKit.framework */,
 				D6B0611A1803AB670077942B /* CoreMotion.framework */,
 				503AE11A17EB9C5A00D1A890 /* IOKit.framework */,
 				503AE11117EB99EE00D1A890 /* libcurl.dylib */,
@@ -500,6 +543,7 @@
 		78C7DDAA14EBA5050085D0C2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				18EB68EB19AB4ABB0075DD2D /* HelloWorld2.png */,
 				1AFAF8B916D35E4900DB1158 /* CloseNormal.png */,
 				1AFAF8BA16D35E4900DB1158 /* CloseSelected.png */,
 				1AFAF8BB16D35E4900DB1158 /* HelloWorld.png */,
@@ -688,6 +732,7 @@
 				50EF629617ECD46A001EB2F8 /* Icon-40.png in Resources */,
 				5087E78217EB970100C73F5D /* Icon-144.png in Resources */,
 				50EF629817ECD46A001EB2F8 /* Icon-80.png in Resources */,
+				18EB68EC19AB4ABB0075DD2D /* HelloWorld2.png in Resources */,
 				5087E78417EB970100C73F5D /* Icon-57.png in Resources */,
 				5087E77E17EB970100C73F5D /* Default.png in Resources */,
 				50EF629717ECD46A001EB2F8 /* Icon-58.png in Resources */,
@@ -712,10 +757,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18EB690E19AEDA140075DD2D /* UndercoverStartScene.cpp in Sources */,
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
-				18C7B2CD19A4526B00A5C4A9 /* HomeScene.cpp in Sources */,
+				18EB68EF19AC3A760075DD2D /* Constants.cpp in Sources */,
+				18EB691519AEDAF20075DD2D /* UndercoverJoinScene.cpp in Sources */,
 				503AE10217EB989F00D1A890 /* RootViewController.mm in Sources */,
 				1AFAF8B716D35DE700DB1158 /* AppDelegate.cpp in Sources */,
+				18EB691219AEDADC0075DD2D /* UndercoverHostScene.cpp in Sources */,
+				18EB690F19AEDA140075DD2D /* HomeScene.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
 				1AFAF8B816D35DE700DB1158 /* HelloWorldScene.cpp in Sources */,
 			);

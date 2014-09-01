@@ -13,6 +13,14 @@
 		18EB690F19AEDA140075DD2D /* HomeScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB690C19AEDA140075DD2D /* HomeScene.cpp */; };
 		18EB691219AEDADC0075DD2D /* UndercoverHostScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB691019AEDADC0075DD2D /* UndercoverHostScene.cpp */; };
 		18EB691519AEDAF20075DD2D /* UndercoverJoinScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB691319AEDAF20075DD2D /* UndercoverJoinScene.cpp */; };
+		18EB691919B07AA00075DD2D /* NetworkManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB691719B07AA00075DD2D /* NetworkManager.cpp */; };
+		18EB691C19B07B380075DD2D /* AudioManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB691A19B07B380075DD2D /* AudioManager.cpp */; };
+		18EB693319B08DA90075DD2D /* md5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB692019B08DA90075DD2D /* md5.cpp */; };
+		18EB693419B08DA90075DD2D /* jsoncpp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB692519B08DA90075DD2D /* jsoncpp.cpp */; };
+		18EB693519B08DA90075DD2D /* base64.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB692719B08DA90075DD2D /* base64.cpp */; };
+		18EB693619B08DA90075DD2D /* HMAC_SHA1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB692919B08DA90075DD2D /* HMAC_SHA1.cpp */; };
+		18EB693719B08DA90075DD2D /* SHA1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB692B19B08DA90075DD2D /* SHA1.cpp */; };
+		18EB693819B08DA90075DD2D /* urlencode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18EB692D19B08DA90075DD2D /* urlencode.cpp */; };
 		1AC6FB1F180E996B004C840B /* libbox2d Mac.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AC6FAFF180E9839004C840B /* libbox2d Mac.a */; };
 		1AC6FB20180E996B004C840B /* libchipmunk Mac.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AC6FAFD180E9839004C840B /* libchipmunk Mac.a */; };
 		1AC6FB21180E996B004C840B /* libcocos2dx Mac.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AC6FAF9180E9839004C840B /* libcocos2dx Mac.a */; };
@@ -234,6 +242,23 @@
 		18EB691119AEDADC0075DD2D /* UndercoverHostScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UndercoverHostScene.h; sourceTree = "<group>"; };
 		18EB691319AEDAF20075DD2D /* UndercoverJoinScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UndercoverJoinScene.cpp; sourceTree = "<group>"; };
 		18EB691419AEDAF20075DD2D /* UndercoverJoinScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UndercoverJoinScene.h; sourceTree = "<group>"; };
+		18EB691719B07AA00075DD2D /* NetworkManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = NetworkManager.cpp; path = ../Classes/Manager/NetworkManager/NetworkManager.cpp; sourceTree = "<group>"; };
+		18EB691819B07AA00075DD2D /* NetworkManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NetworkManager.h; path = ../Classes/Manager/NetworkManager/NetworkManager.h; sourceTree = "<group>"; };
+		18EB691A19B07B380075DD2D /* AudioManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AudioManager.cpp; path = ../Classes/Manager/AudioManager/AudioManager.cpp; sourceTree = "<group>"; };
+		18EB691B19B07B380075DD2D /* AudioManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AudioManager.h; path = ../Classes/Manager/AudioManager/AudioManager.h; sourceTree = "<group>"; };
+		18EB692019B08DA90075DD2D /* md5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = md5.cpp; sourceTree = "<group>"; };
+		18EB692119B08DA90075DD2D /* md5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = md5.h; sourceTree = "<group>"; };
+		18EB692319B08DA90075DD2D /* json-forwards.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "json-forwards.h"; sourceTree = "<group>"; };
+		18EB692419B08DA90075DD2D /* json.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = json.h; sourceTree = "<group>"; };
+		18EB692519B08DA90075DD2D /* jsoncpp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = jsoncpp.cpp; sourceTree = "<group>"; };
+		18EB692719B08DA90075DD2D /* base64.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = base64.cpp; sourceTree = "<group>"; };
+		18EB692819B08DA90075DD2D /* base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = base64.h; sourceTree = "<group>"; };
+		18EB692919B08DA90075DD2D /* HMAC_SHA1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HMAC_SHA1.cpp; sourceTree = "<group>"; };
+		18EB692A19B08DA90075DD2D /* HMAC_SHA1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMAC_SHA1.h; sourceTree = "<group>"; };
+		18EB692B19B08DA90075DD2D /* SHA1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SHA1.cpp; sourceTree = "<group>"; };
+		18EB692C19B08DA90075DD2D /* SHA1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHA1.h; sourceTree = "<group>"; };
+		18EB692D19B08DA90075DD2D /* urlencode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = urlencode.cpp; sourceTree = "<group>"; };
+		18EB692E19B08DA90075DD2D /* urlencode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = urlencode.h; sourceTree = "<group>"; };
 		1AC6FAE5180E9839004C840B /* cocos2d_libs.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = cocos2d_libs.xcodeproj; path = ../cocos2d/build/cocos2d_libs.xcodeproj; sourceTree = "<group>"; };
 		1ACB3243164770DE00914215 /* libcurl.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libcurl.a; path = ../../cocos2dx/platform/third_party/ios/libraries/libcurl.a; sourceTree = "<group>"; };
 		1AFAF8B316D35DE700DB1158 /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = ../Classes/AppDelegate.cpp; sourceTree = "<group>"; };
@@ -361,7 +386,9 @@
 				1AFAF8B516D35DE700DB1158 /* HelloWorldScene.cpp */,
 				1AFAF8B616D35DE700DB1158 /* HelloWorldScene.h */,
 				18C7B2CA19A35A8900A5C4A9 /* Language */,
+				18EB691619B0769D0075DD2D /* Manager */,
 				18C7B2C819A3599100A5C4A9 /* Model */,
+				18EB691D19B08DA90075DD2D /* ThirdParty */,
 				18C7B2C919A359CC00A5C4A9 /* Utilities */,
 				18EB690619AEDA140075DD2D /* ViewController */,
 			);
@@ -430,6 +457,70 @@
 				18EB690D19AEDA140075DD2D /* HomeScene.h */,
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		18EB691619B0769D0075DD2D /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				18EB691719B07AA00075DD2D /* NetworkManager.cpp */,
+				18EB691819B07AA00075DD2D /* NetworkManager.h */,
+				18EB691A19B07B380075DD2D /* AudioManager.cpp */,
+				18EB691B19B07B380075DD2D /* AudioManager.h */,
+			);
+			name = Manager;
+			sourceTree = "<group>";
+		};
+		18EB691D19B08DA90075DD2D /* ThirdParty */ = {
+			isa = PBXGroup;
+			children = (
+				18EB691E19B08DA90075DD2D /* crypto */,
+				18EB692219B08DA90075DD2D /* json */,
+				18EB692619B08DA90075DD2D /* liboauthcpp */,
+			);
+			name = ThirdParty;
+			path = ../Classes/ThirdParty;
+			sourceTree = "<group>";
+		};
+		18EB691E19B08DA90075DD2D /* crypto */ = {
+			isa = PBXGroup;
+			children = (
+				18EB691F19B08DA90075DD2D /* md5 */,
+			);
+			path = crypto;
+			sourceTree = "<group>";
+		};
+		18EB691F19B08DA90075DD2D /* md5 */ = {
+			isa = PBXGroup;
+			children = (
+				18EB692019B08DA90075DD2D /* md5.cpp */,
+				18EB692119B08DA90075DD2D /* md5.h */,
+			);
+			path = md5;
+			sourceTree = "<group>";
+		};
+		18EB692219B08DA90075DD2D /* json */ = {
+			isa = PBXGroup;
+			children = (
+				18EB692319B08DA90075DD2D /* json-forwards.h */,
+				18EB692419B08DA90075DD2D /* json.h */,
+				18EB692519B08DA90075DD2D /* jsoncpp.cpp */,
+			);
+			path = json;
+			sourceTree = "<group>";
+		};
+		18EB692619B08DA90075DD2D /* liboauthcpp */ = {
+			isa = PBXGroup;
+			children = (
+				18EB692719B08DA90075DD2D /* base64.cpp */,
+				18EB692819B08DA90075DD2D /* base64.h */,
+				18EB692919B08DA90075DD2D /* HMAC_SHA1.cpp */,
+				18EB692A19B08DA90075DD2D /* HMAC_SHA1.h */,
+				18EB692B19B08DA90075DD2D /* SHA1.cpp */,
+				18EB692C19B08DA90075DD2D /* SHA1.h */,
+				18EB692D19B08DA90075DD2D /* urlencode.cpp */,
+				18EB692E19B08DA90075DD2D /* urlencode.h */,
+			);
+			path = liboauthcpp;
 			sourceTree = "<group>";
 		};
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
@@ -757,16 +848,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18EB693719B08DA90075DD2D /* SHA1.cpp in Sources */,
 				18EB690E19AEDA140075DD2D /* UndercoverStartScene.cpp in Sources */,
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
 				18EB68EF19AC3A760075DD2D /* Constants.cpp in Sources */,
+				18EB693619B08DA90075DD2D /* HMAC_SHA1.cpp in Sources */,
 				18EB691519AEDAF20075DD2D /* UndercoverJoinScene.cpp in Sources */,
 				503AE10217EB989F00D1A890 /* RootViewController.mm in Sources */,
 				1AFAF8B716D35DE700DB1158 /* AppDelegate.cpp in Sources */,
+				18EB691C19B07B380075DD2D /* AudioManager.cpp in Sources */,
+				18EB693819B08DA90075DD2D /* urlencode.cpp in Sources */,
 				18EB691219AEDADC0075DD2D /* UndercoverHostScene.cpp in Sources */,
+				18EB693519B08DA90075DD2D /* base64.cpp in Sources */,
+				18EB693319B08DA90075DD2D /* md5.cpp in Sources */,
+				18EB691919B07AA00075DD2D /* NetworkManager.cpp in Sources */,
 				18EB690F19AEDA140075DD2D /* HomeScene.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
 				1AFAF8B816D35DE700DB1158 /* HelloWorldScene.cpp in Sources */,
+				18EB693419B08DA90075DD2D /* jsoncpp.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

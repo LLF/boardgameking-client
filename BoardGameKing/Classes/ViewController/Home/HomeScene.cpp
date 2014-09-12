@@ -7,7 +7,7 @@
 //
 
 #include "HomeScene.h"
-#include "../Games/Undercover/UndercoverStartScene.h"
+#include "../../Games/Undercover/GameView/UndercoverStartScene.h"
 
 Scene* HomeScene::createScene()
 {

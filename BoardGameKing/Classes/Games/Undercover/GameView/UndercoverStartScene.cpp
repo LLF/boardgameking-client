@@ -7,6 +7,9 @@
 //
 
 #include "UndercoverStartScene.h"
+#include "UndercoverJoinScene.h"
+#include "UndercoverHostScene.h"
+
 Scene* UndercoverStartScene::createScene()
 {
     auto scene = Scene::create();
@@ -25,7 +28,7 @@ bool UndercoverStartScene::init()
     Vec2 origin = Director::getInstance()->getVisibleOrigin();
     
     ControlButton* button1 = ControlButton::create("Create", "Arial", 40);
-    button1->addTargetWithActionForControlEvents(this, cccontrol_selector(UndercoverStartScene::buttonBack), Control::EventType::TOUCH_UP_INSIDE);
+    button1->addTargetWithActionForControlEvents(this, cccontrol_selector(UndercoverStartScene::buttonCreate), Control::EventType::TOUCH_UP_INSIDE);
     button1->setAnchorPoint(Point(0.5,0.5));
     button1->setZoomOnTouchDown(true);
     button1->setPosition(Vec2(visibleSize.width / 2,
@@ -43,19 +46,21 @@ bool UndercoverStartScene::init()
     back->setAnchorPoint(Point(0.5,0.5));
     back->setZoomOnTouchDown(true);
     back->setPosition(Vec2(visibleSize.width - 100,
-                              visibleSize.height -100));
+                              visibleSize.height - 100));
     this->addChild(back, 1);
     return true;
 }
 
 void UndercoverStartScene::buttonCreate(Ref *senderz, Control::EventType controlEvent)
 {
-    Director::getInstance()->popScene();
+    Director::getInstance()->pushScene(UndercoverHostScene::createScene());
 }
+
 void UndercoverStartScene::buttonJoin(Ref *senderz, Control::EventType controlEvent)
 {
-    Director::getInstance()->popScene();
+    Director::getInstance()->pushScene(UndercoverJoinScene::createScene());
 }
+
 void UndercoverStartScene::buttonBack(Ref *senderz, Control::EventType controlEvent)
 {
     Director::getInstance()->popScene();
